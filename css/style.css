@@ -2,6 +2,7 @@
             margin: 0;
             padding: 0;
             box-sizing: border-box;
+            text-decoration: none;
         }
 
         :root {
@@ -446,6 +447,7 @@
             font-size: 0.875rem;
             font-weight: 500;
             font-family: 'Inter', sans-serif;
+            text-decoration: none;
         }
 
         .project-content {
@@ -729,3 +731,6 @@
                 justify-content: center;
             }
         }
+a:link{
+    color: white;
+}
